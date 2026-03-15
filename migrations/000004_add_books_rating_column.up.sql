@@ -1,0 +1,2 @@
+ALTER TABLE books
+ADD COLUMN rating text NOT NULL;
